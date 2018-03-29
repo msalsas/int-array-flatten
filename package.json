@@ -1,0 +1,30 @@
+{
+  "name": "int-array-flatten",
+  "version": "0.0.0",
+  "description": "A library for flattening arrays of integers.",
+  "main": "dist/int-array-flatten.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msalsas/int-array-flatten.git"
+  },
+  "keywords": [
+    "array",
+    "integer",
+    "flatten"
+  ],
+  "author": "@msalsas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msalsas/int-array-flatten/issues"
+  },
+  "homepage": "https://github.com/msalsas/int-array-flatten#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1"
+  }
+}
