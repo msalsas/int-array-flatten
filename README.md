@@ -1,4 +1,4 @@
-# int-array-flatten [![Build Status](https://travis-ci.org/msalsas/int-array-flatten?branch=master)](https://travis-ci.org/msalsas/int-array-flatten)
+# int-array-flatten [![Build Status](https://travis-ci.org/msalsas/int-array-flatten.svg?branch=master)](https://travis-ci.org/msalsas/int-array-flatten)
 
 A library for flattening arrays of integer.
 
