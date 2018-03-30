@@ -10,10 +10,6 @@ Installation:
 
 Usage:
 
-`var flatten = require('int-array-flatten')`
-
-or
-
 `import flatten from 'int-array-flatten';`
 
 `var flattenedArray = flatten(array);`

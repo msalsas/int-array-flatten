@@ -35,7 +35,7 @@ function validateItem(item) {
         item.forEach(nestedItem => {
             validateItem(nestedItem);
         });
-        
+
     } else {
         const msg = 'Item ' + item + ' is not an array, neither an integer.';
         throw new Error(msg);
