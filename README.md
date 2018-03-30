@@ -26,8 +26,13 @@ Development:
 
 `npm install`
 
+To run tests:
+
+`npm test`
+
 Deployment:
 
-To build all components into `dist` directory run:
+To build into `dist` directory execute:
 
 `gulp build`
+
